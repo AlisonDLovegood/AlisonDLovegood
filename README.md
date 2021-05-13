@@ -10,9 +10,12 @@ I'm graduated in computer technician as a high school level by Federal Institute
 
 ### Another things about me
 ⚖️ I have experience with teamwork 
+&nbsp;
 💸 I have experience with sales
+&nbsp;
 💡 Creativity and initiative
-💻 Reasonable knowledge of programming in Java, PHP, Banco de Dados Mysql, HTML, CSS, JavaScript e Laravel
+&nbsp;
+💻 Reasonable knowledge of programming in Java, PHP, Banco de Dados Mysql, HTML, CSS, JavaScript e Laravel.
 <!--
 **AlisonDLovegood/AlisonDLovegood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
