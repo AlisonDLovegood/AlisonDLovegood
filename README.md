@@ -9,10 +9,10 @@ My professional name is Alison D, Lovegood, I'm from Brasil 🇧🇷 and I have 
 I'm graduated in computer technician as a high school level by Federal Institute of Education Science and Technology of Rio Grande do Norte (IFRN)  🎓. In addition, undergraduate student in Information of Technology at Rural Federal University of Pernambuco (UFRPE) 📚. I'm really like about learning and solving problems, always open to changes and ready to face new challengers.
 
 ### Another things about me
-	🤝 I have experience with teamwork 
-	💰 I have experience with sales
-	🙇‍♂️ Creativity and initiative
-	💻 Reasonable knowledge of programming in Java, PHP, Banco de Dados Mysql, HTML, CSS, JavaScript e Laravel
+⚖️ I have experience with teamwork 
+💸 I have experience with sales
+💡 Creativity and initiative
+💻 Reasonable knowledge of programming in Java, PHP, Banco de Dados Mysql, HTML, CSS, JavaScript e Laravel
 <!--
 **AlisonDLovegood/AlisonDLovegood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
