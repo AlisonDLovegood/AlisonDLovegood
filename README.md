@@ -4,7 +4,7 @@
 
 # Hello 👋😁!
 
-My professional name is Alison D, Lovegood, I'm from Brasil 🇧🇷 and I have 21 year old.
+My name is Alison, I'm from Brasil 🇧🇷 and I have 21 year old.
 
 I'm graduated in computer technician as a high school level by Federal Institute of Education Science and Technology of Rio Grande do Norte (IFRN)  🎓. In addition, undergraduate student in Information of Technology at Rural Federal University of Pernambuco (UFRPE) 📚. I'm really like about learning and solving problems, always open to changes and ready to face new challengers.
 
